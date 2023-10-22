@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repos del modulo2 del curso de &lt;Henry>
+Este es una prueba de como crear y clonar
+Andres Aterido Martin
